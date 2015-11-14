@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android ReactiveX</string>
+    <string name="label_start">START</string>
+</resources>
